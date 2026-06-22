@@ -1,3 +1,5 @@
+> **⚠️ DEPRECATED** — This repository has been merged into [Feb17/skills](https://github.com/Feb17/skills). See [`skills/create-jira-subtasks/`](https://github.com/Feb17/skills/tree/main/create-jira-subtasks) for the latest version.
+
 # create-jira-subtasks
 
 Cursor/agent skill that breaks a Jira ticket into well-scoped sub-tasks, grounded in the user's actual workspace work, and creates them via the Atlassian MCP with every operational attribute inherited from the parent.
